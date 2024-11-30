@@ -5,6 +5,7 @@ email: hello@caseyjr.org
 copyright: "© 2024 Mike Casey"
 
 # Build settings
+theme: minima
 markdown: kramdown
 permalink: /:title/
 plugins:
@@ -19,3 +20,16 @@ collections:
   recommendations:
     output: true
     permalink: /recommendations/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/posts/:year/:month/:day/:title/"
+
+header_pages:
+  - publications.md
+  - recommended-reading.md

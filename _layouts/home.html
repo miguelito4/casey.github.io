@@ -24,13 +24,15 @@ layout: default
         <p>I live in the United States with my wife, two sons, and dog.</p>
 
         <p>You may get in touch with me on <a href="https://farcaster.xyz">Farcaster</a> or via e-mail at <a href="mailto:hello@caseyjr.org">hello@caseyjr.org</a>.</p>
-    
+   
+    ---
+
     <h2>Posts</h2>
     <ul class="post-list">
       {% for post in site.posts %}
         {% unless post.title contains 'Favorite Books' %}
           <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> • 
             <span class="post-meta">{{ post.date | date: "%b '%y" }}</span>
           </li>
         {% endunless %}
