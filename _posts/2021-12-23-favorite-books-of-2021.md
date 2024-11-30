@@ -2,6 +2,7 @@
 layout: post
 title: "Favorite Books of 2021"
 date: 2021-12-23 22:02:14 +0000
+tags: favorites
 ---
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} -->

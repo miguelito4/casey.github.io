@@ -2,6 +2,7 @@
 layout: post
 title: "Favorite Books of 2015"
 date: 2015-12-05 14:45:59 +0000
+tags: favorites
 ---
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}}} -->

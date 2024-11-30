@@ -43,3 +43,47 @@ a:hover {
 h1, h2 {
   font-weight: normal;
 }
+
+/* Navigation Styles */
+.site-nav {
+  background: var(--background-color);
+  padding: 1rem;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links a {
+  color: var(--text-color);
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.nav-links a:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.nav-links a.active {
+  border-bottom: 2px solid var(--text-color);
+}
+
+/* Add padding to body to account for fixed navigation */
+body {
+  padding-top: 4rem;
+}

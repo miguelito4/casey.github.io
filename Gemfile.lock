@@ -106,15 +106,11 @@ PLATFORMS
   x86_64-darwin
 
 DEPENDENCIES
-  http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.3.4)
-  jekyll-feed (~> 0.12)
+  jekyll
+  jekyll-feed
   jekyll-paginate
   jekyll-sitemap
-  minima (~> 2.5)
-  tzinfo (>= 1, < 3)
-  tzinfo-data
-  wdm (~> 0.1)
+  minima
 
 BUNDLED WITH
    2.5.23

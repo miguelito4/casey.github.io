@@ -2,6 +2,7 @@
 layout: post
 title: "Favorite Books of 2022"
 date: 2022-12-13 15:26:29 +0000
+tags: favorites
 ---
 
 <!-- wp:paragraph -->

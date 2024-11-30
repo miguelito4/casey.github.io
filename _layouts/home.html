@@ -5,36 +5,34 @@ layout: default
   <div class="container">
     <h1>Mike Casey</h1>
 
-        <p>Ciao.</p>
-
-        <p>I <a href="https://porticoadvisers.com">work</a> with family capital, asset owners, and corporate investors in complex markets.</p>
-
-        <p>What are those?</p>
-
-        <p>At my company, we think of them as six systems where transformational change is needed to address our most pressing planetary challenges: energy, technology, health, food, carbon, and mobility.</p>
-
-        <p>Previously, I spent 15 years or so focused on the problem of expanding access to capital in market segments and geographies that most investors overlook. This often entailed working with private equity and venture capital funds, institutional investors, and the founders of early-stage startups and mid-sized businesses.</p>
-
-        <p>In recent years, I've grown increasingly interested in blockchain's potential to transform the creation and exchange of value globally, and the development of open, permissionless protocols more broadly.</p>
-
-        <p>Fun fact: the background and hyperlink colors on this website use the same hex codes of NFTs I collected on <a href="https://basecolors.com">Base Colors</a>.</p>
-        
-        <p>In addition to my occasional blog posts below, you may click through to some of my <a href="/publications">publications</a> and <a href="/recommended-reading">favorite reads</a>.</p>
-
-        <p>I live in the United States with my wife, two sons, and dog.</p>
-
-        <p>You may get in touch with me on <a href="https://farcaster.xyz">Farcaster</a> or via e-mail at <a href="mailto:hello@caseyjr.org">hello@caseyjr.org</a>.</p>
-   
-    ---
+        Ciao.
+        <br><br>
+        I <a href="https://porticoadvisers.com">work</a> with family capital, asset owners, and corporate investors in deep tech. 
+        <br><br>
+        Previously, I spent 15 years or so focused on the problem of expanding access to capital in market segments and geographies that most investors overlook. This often entailed working with private equity and venture capital funds, institutional investors, and the founders of early-stage startups and mid-sized businesses.
+        <br><br>
+        In recent years, I've grown increasingly interested in blockchain's potential to transform the creation and exchange of value globally, and the development of open, permissionless protocols more broadly.
+        <br><br>
+        Fun fact: the background and hyperlink colors on this website use the same hex codes of NFTs I collected on <a href="https://basecolors.com">Base Colors</a>.
+        <br><br>
+        In addition to my occasional blog posts below, you may click through to some of my <a href="/publications">publications</a> and <a href="/reading">recommended reads</a>.
+        <br><br>
+        I hosted a <a href="https://www.porticopodcast.com">podcast</a> on private markets that featured some great interviews, but I have deprecated it (for now).
+        <br><br>
+        You may find me on <a href="https://farcaster.xyz">Farcaster</a> (@mc) and <a href="https://bsky.app/profile/mcasey.xyz">BlueSky</a>, or reach me <a href="mailto:hello@caseyjr.org">via e-mail</a>.
+        <br><br>
+    ———
 
     <h2>Posts</h2>
     <ul class="post-list">
       {% for post in site.posts %}
         {% unless post.title contains 'Favorite Books' %}
-          <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> • 
-            <span class="post-meta">{{ post.date | date: "%b '%y" }}</span>
-          </li>
+            {% if post.title and post.date %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a> • 
+                    <span class="post-meta">{{ post.date | date: "%b '%y" }}</span>
+                </li>
+            {% endif %}
         {% endunless %}
       {% endfor %}
     </ul>

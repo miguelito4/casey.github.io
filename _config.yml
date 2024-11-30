@@ -32,4 +32,4 @@ defaults:
 
 header_pages:
   - publications.md
-  - recommended-reading.md
+  - reading.md

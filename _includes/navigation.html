@@ -1,0 +1,11 @@
+<!-- _includes/navigation.html -->
+<nav class="site-nav">
+    <div class="nav-wrapper">
+      <a href="/" class="site-title">Mike Casey</a>
+      <div class="nav-links">
+        <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+        <a href="/publications" {% if page.url == "/publications" %}class="active"{% endif %}>Publications</a>
+        <a href="/reading" {% if page.url == "/reading" %}class="active"{% endif %}>Recommended Reading</a>
+      </div>
+    </div>
+  </nav>

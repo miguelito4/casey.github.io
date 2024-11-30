@@ -2,6 +2,7 @@
 layout: post
 title: "Favorite Books of 2020"
 date: 2020-12-15 18:39:50 +0000
+tags: favorites
 ---
 
 <!-- wp:paragraph -->
