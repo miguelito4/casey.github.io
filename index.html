@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="container">
@@ -29,10 +29,12 @@ layout: default
   
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        • {{ post.date | date: "%b '%y" }}
-      </li>
+      {% unless post.title contains 'Favorite Books' %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endunless %}
     {% endfor %}
   </ul>
 </div>
