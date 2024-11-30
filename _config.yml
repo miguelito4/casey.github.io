@@ -1,0 +1,18 @@
+title: Mike Casey
+description: Entrepreneur seeking the good life
+url: "https://mcasey.xyz"
+github_username: miguelito4
+
+markdown: kramdown
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 50
+paginate_path: "/page:num/"
+
+collections:
+  recommendations:
+    output: true
+    permalink: /recommendations/:path:/
