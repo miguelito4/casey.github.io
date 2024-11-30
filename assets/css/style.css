@@ -87,3 +87,10 @@ h1, h2 {
   height: auto;
   border-radius: 10px; /* optional, for slightly rounded corners */
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
