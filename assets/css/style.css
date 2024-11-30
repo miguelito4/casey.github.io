@@ -44,46 +44,46 @@ h1, h2 {
   font-weight: normal;
 }
 
-/* Navigation Styles */
-.site-nav {
-  background: var(--background-color);
-  padding: 1rem;
+.site-header {
   width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
+  background-color: var(--background-color);
+  padding: 1rem 0;
+  margin-bottom: 2rem;
 }
 
-.nav-wrapper {
+.site-nav {
+  max-width: 42rem;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 42rem;
-  margin: 0 auto;
-  padding: 0 1rem;
+}
+
+.site-title a {
+  font-size: 1.2rem;
+  font-weight: 500;
 }
 
 .nav-links {
   display: flex;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 .nav-links a {
-  color: var(--text-color);
-  text-decoration: none;
-  transition: opacity 0.2s;
+  color: var(--link-color);
 }
 
 .nav-links a:hover {
-  opacity: 0.8;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
-.nav-links a.active {
-  border-bottom: 2px solid var(--text-color);
+.header-container {
+  margin: 2rem 0;
+  text-align: center;
 }
 
-/* Add padding to body to account for fixed navigation */
-body {
-  padding-top: 4rem;
+.header-image {
+  max-width: 200px; /* adjust this value to your preferred size */
+  height: auto;
+  border-radius: 10px; /* optional, for slightly rounded corners */
 }

@@ -3,7 +3,9 @@ layout: default
 ---
 <div class="home">
   <div class="container">
-    <h1>Mike Casey</h1>
+    <div class="header-container">
+        <img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Mike Casey" class="header-image">
+    </div>
 
         Ciao.
         <br><br>
@@ -36,5 +38,8 @@ layout: default
         {% endunless %}
       {% endfor %}
     </ul>
+    
+    ———
+
   </div>
 </div>
