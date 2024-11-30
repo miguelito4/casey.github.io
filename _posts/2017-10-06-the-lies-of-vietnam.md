@@ -4,10 +4,6 @@ title: "The Lies of Vietnam"
 date: 2017-10-06 10:22:29 +0000
 ---
 
-<!-- wp:image {"align":"none","id":994,"className":"size-full wp-image-994"} -->
-<figure class="wp-block-image alignnone size-full wp-image-994"><img src="https://caseyjr.org/wp-content/uploads/2017/10/vietnamkriegpersonen1966.jpg" alt="Source: National Archives and Records Administration." class="wp-image-994" /><figcaption class="wp-element-caption">President Lyndon B. Johnson in Vietnam: With General William Westmoreland, Lieutenant General Nguyen Van Thieu, Prime Minister Nguyen Cao Ky (South Vietnam). Source: National Archives and Records Administration.</figcaption></figure>
-<!-- /wp:image -->
-
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><!-- wp:paragraph -->
 <p>Rarely have accomplishments turned out so totally at variance with intended objectives. The war did not save South Vietnam, it did not deter future aggression, it did not enhance the credibility of United States commitments elsewhere in the world, it did not prevent recriminations at home …</p>
