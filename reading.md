@@ -25,6 +25,7 @@ Lord Acton • <a href="https://archive.org/details/LecturesOnModernHistory">Lec
 <br>Patrick Leigh Fermor • <a href="https://www.amazon.com/Time-Gifts-Constantinople-Holland-Classics/dp/1590171659/">A Time of Gifts</a>
 <br>David Hackett Fischer • <a href="https://www.amazon.com/Great-Wave-Revolutions-Rhythm-History/dp/019512121X/">The Great Wave: Price Revolutions and the Rhythm of History</a>
 <br>Howard French • <a href="https://www.amazon.com/Born-Blackness-Africa-Making-Modern/dp/1324092408/">Born in Blackness: Africa, Africans, and the Making of the Modern World, 1471 to the Second World War</a>
+<br>Ernest Gellner • <a href="https://www.amazon.com/Plough-Sword-Book-Structure-History/dp/0226287025/">Plough, Sword and Book: The Structure of Human History</a>
 <br>Richard Hall • <a href="https://www.amazon.com/Empires-monsoon-history-Indian-invaders/dp/0006380832/">Empires of the Monsoon</a>
 <br>Herodotus • <a href="https://www.amazon.com/Histories-Oxford-Worlds-Classics/dp/0199535663/">The Histories</a>
 <br>Aldous Huxley • <u>Proper Studies</u> and <a href="https://www.amazon.com/Grey-Eminence-Aldous-Huxley/dp/0099477823/">Grey Eminence</a>
@@ -81,11 +82,13 @@ Aravind Adiga • <a href="https://www.amazon.com/White-Tiger-Novel-Aravind-Adig
 
 ## Articles, essays, speeches, etc.
 W. H. Auden • <a href="https://poets.org/poem/september-1-1939">September 1, 1939</a>
+<br>Vitalik Buterin • <a href="https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf">Ethereum Whitepaper</a>
 <br>T. S. Eliot • <a href="https://www.poetryfoundation.org/poems/47311/the-waste-land">The Waste Land</a>
 <br>John Gray • <a href="https://www.prospectmagazine.co.uk/magazine/berlin-wall-anniversary-25-years-of-liberal-delusion">Berlin Wall anniversary: 25 years of liberal delusion</a>
 <br>Elbert Hubbard • <a href="https://courses.csail.mit.edu/6.803/pdf/hubbard1899.pdf">A Message to Garcia</a>
 <br>George Frost Kennan • <a href="https://nsarchive2.gwu.edu/coldwar/documents/episode-1/kennan.htm">The Long Telegram</a>
 <br>C.S. Lewis • <a href="https://www.lewissociety.org/innerring/">The Inner Ring</a>
+<br>Satoshi Nakamoto • <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a>
 <br>W. Michael Reisman • <a href="https://openyls.law.yale.edu/bitstream/handle/20.500.13051/195/Aftershocks_Reflections_on_the_Implications_of_September_11.pdf?sequence=2&isAllowed=y">Aftershocks: Reflections on the Implications of September 11</a>
 <br>Ethan Watters • <a href="https://psmag.com/social-justice/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135">We aren’t the world</a>
 
