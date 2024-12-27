@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Cognition Revolution?"
+title: "The Cognition Reformation?"
 date: 2024-12-27 8:54:25 +0000
 ---
 
@@ -16,7 +16,9 @@ As Gellner states:
 
 > *In a society based on a generalized, school-transmitted “high” (literate) culture, a man’s capacity to identify with communities defined by such high cultures becomes the most important factor in his life.*
 
-With the transition to the knowledge economy, elite universities progressively entrenched their position as gatekeepers to well-remunerated, high-prestige jobs. In no small measure, whether a person attended a university — and which university s/he attended — has dictated life outcomes. (See, for example the Federal Reserve’s [Survey of Consumer Finances](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/#series:Before_Tax_Income;demographic:edcl;population:all;units:median) or Anne Case and Angus Deaton on [widening gaps in life expectancy](https://www.nytimes.com/2023/10/03/opinion/life-expectancy-college-degree.html)).
+With the transition to the knowledge economy, elite universities progressively entrenched their position as gatekeepers to well-remunerated, high-prestige jobs. 
+
+In no small measure, whether a person attended a university — and which university s/he attended — has dictated life outcomes. (See, for example the Federal Reserve’s [Survey of Consumer Finances](https://www.federalreserve.gov/econres/scf/dataviz/scf/chart/#series:Before_Tax_Income;demographic:edcl;population:all;units:median) or Anne Case and Angus Deaton on [widening gaps in life expectancy](https://www.nytimes.com/2023/10/03/opinion/life-expectancy-college-degree.html)).
 
 As purveyors of status and position, universities had significant power in shaping politics and culture. 
 
