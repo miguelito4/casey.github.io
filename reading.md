@@ -55,7 +55,9 @@ Lord Acton • <a href="https://archive.org/details/LecturesOnModernHistory">Lec
 Aravind Adiga • <a href="https://www.amazon.com/White-Tiger-Novel-Aravind-Adiga/dp/1416562605/r">The White Tiger</a>
 <br>Sebastian Barry • <a href="https://www.amazon.com/Long-Way-Sebastian-Barry/dp/0143035096/">A Long Long Way</a>
 <br>Frans Bengtsson • <a href="https://www.amazon.com/Long-Ships-Review-Books-Classics/dp/1590173465/">The Long Ships</a>
+<br>Roberto Bolaño • <a href="https://bookshop.org/p/books/2666-roberto-bolano/8772677?ean=9780312429218&next=t&next=t">2666</a>
 <br>Eugene Burdick and William Lederer • <a href="https://www.amazon.com/Ugly-American-Eugene-Burdick/dp/0393356728/">The Ugly American</a>
+<br>Italo Calvino • <a href="https://bookshop.org/p/books/the-cloven-viscount-italo-calvino/7085280?ean=9780544960060&next=t&next=t">The Cloven Viscount</a> 
 <br>Helen DeWitt • <a href="https://www.amazon.com/Last-Samurai-Helen-DeWitt/dp/081122550X/">The Last Samurai</a>
 <br>Fyodor Dostoevsky • <a href="https://www.amazon.com/Brothers-Karamazov-Bicentennial-Novel-Epilogue/dp/1250788455/">The Brothers Karamazov</a>
 <br>Graham Greene • <a href="https://www.amazon.com/Lawless-Roads-Penguin-Classics/dp/0143039733/">The Lawless Roads</a>
