@@ -24,13 +24,13 @@ layout: default
         You may find me on <a href="https://bsky.app/profile/mcasey.xyz">BlueSky</a> or reach me <a href="mailto:hi@mcasey.xyz">via e-mail</a>. I built the bot <a href="https://warpcast.com/thucydides">@thucydides</a> on <a href="https://farcaster.xyz">Farcaster</a>, but I spend less time there now.
         <br><br>
         You should sign up for my monthly newsletter <a href="https://buttondown.com/fourthings"><strong>Four Things</strong></a>, which provides an update on:
-        <br><br>
+        <br>
         → What I’m reading
-        <br><br>
+        <br>
         → What I’m building
-        <br><br>
+        <br>
         → What I’m listening to
-        <br><br>
+        <br>
         → A thought-provoking data point
         <br><br>
         <form
@@ -39,46 +39,50 @@ layout: default
           target="popupwindow"
           onsubmit="window.open('https://buttondown.com/fourthings', 'popupwindow')"
           class="embeddable-buttondown-form"
-          style="text-align: center; margin-top: 2em;"
+          style="margin-top: 2.5em; margin-bottom: 2em; text-align: left; max-width: 400px;"
         >
-          <label for="bd-email" style="display: block; margin-bottom: 10px; font-weight: 500;">
+          <label for="bd-email" style="display: block; margin-bottom: 0.5em; font-weight: 500;">
             Enter your email
           </label>
 
-          <input
-            type="email"
-            name="email"
-            id="bd-email"
-            required
-            placeholder="you@example.com"
-            style="
-              padding: 10px;
-              width: 250px;
-              max-width: 90%;
-              border-radius: 6px;
-              border: 1px solid #ccc;
-              margin-right: 10px;
-              font-size: 16px;"
-          />
+          <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <input
+              type="email"
+              name="email"
+              id="bd-email"
+              required
+              placeholder="you@example.com"
+              style="
+                padding: 10px;
+                flex: 1 1 auto;
+                min-width: 200px;
+                border-radius: 6px;
+                border: 1px solid #ccc;
+                font-size: 16px;"
+            />
 
-          <input
-            type="submit"
-            value="Subscribe"
-            style="
-              background: linear-gradient(135deg, #a78bfa, #60a5fa);
-              color: white;
-              padding: 10px 24px;
-              font-size: 16px;
-              font-weight: bold;
-              border: none;
-              border-radius: 6px;
-              cursor: pointer;
-              box-shadow: 0 4px 14px rgba(167, 139, 250, 0.3);
-              transition: all 0.2s ease-in-out;"
-            onmouseover="this.style.transform='scale(1.05)'"
-            onmouseout="this.style.transform='scale(1)'"
-          />
-    ———
+            <input
+              type="submit"
+              value="Subscribe"
+              style="
+                background: linear-gradient(135deg, #a78bfa, #60a5fa);
+                color: white;
+                padding: 10px 24px;
+                font-size: 16px;
+                font-weight: bold;
+                border: none;
+                border-radius: 6px;
+                cursor: pointer;
+                box-shadow: 0 4px 14px rgba(167, 139, 250, 0.3);
+                transition: all 0.2s ease-in-out;"
+              onmouseover="this.style.transform='scale(1.05)'"
+              onmouseout="this.style.transform='scale(1)'"
+            />
+          </div>
+        </form>
+
+        <hr style="width: 2em; margin-top: 3em; margin-left: 0;" />
+        ———
 
     <h2>Posts</h2>
     <ul class="post-list">
